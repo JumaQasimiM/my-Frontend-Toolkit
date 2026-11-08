@@ -21,4 +21,5 @@ a resposive alternating timeline design built with HTML & CSS
 ## Preview
 
 ![Timeline preview](./first.png)
-![Timeline preview](./2.png)
+
+![Timeline preview](./preview.png)
